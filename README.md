@@ -80,7 +80,7 @@ Comparación presentada al final del notebook:
 ia_2025_30_eval_final_perezdeaguas_solaez_suarez.ipynb
 ```
 
-### 2. Cargar el dataset CSV en `/content/` o ruta local equivalente
+### 2. Cargar el dataset zip que se encuentra en el repositorio en `/content/` o ruta local equivalente
 
 ### 3. Ejecutar el notebook secuencialmente
 > No requiere configuración adicional si se ejecuta en Google Colab.
